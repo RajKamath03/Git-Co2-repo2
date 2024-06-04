@@ -1,0 +1,4 @@
+Python 
+Basic features 
+Data types syntax
+to print a simple text
